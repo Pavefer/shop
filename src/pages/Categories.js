@@ -50,7 +50,7 @@ export  const Categories = () => {
     <div>
       <div className="max-w-7xl mx-auto px-4">
         <div className="max-w-2xl mx-auto py-16 sm:py-24 lg:py-10 lg:max-w-none">
-          <h2 className="text-2xl font-extrabold text-gray-900 text-left">Категории</h2>
+          <h2 className="text-4xl font-extrabold text-gray-900 text-left">Категории</h2>
 
           <div className="mt-6 space-y-0 col-start-auto mb-6 lg:grid lg:grid-cols-3 lg:gap-x-6 lg:gap-y-6">
             {callouts.map((callout) => (

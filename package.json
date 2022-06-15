@@ -2,7 +2,7 @@
   "name": "course-shop",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://avashchenk0.github.io/course-shop",
+  "homepage": "https://avashchenk0.github.io/shop/",
   "dependencies": {
     "@headlessui/react": "1.6.4",
     "@heroicons/react": "1.0.6",
@@ -20,7 +20,7 @@
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
